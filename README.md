@@ -54,7 +54,7 @@ Confusion matrix heatmap
 
 Classification report (precision, recall, F1-score)
 
-✅ Requirements
+# ✅ Requirements
 Python 3.x
 
 Jupyter Notebook or JupyterLab
